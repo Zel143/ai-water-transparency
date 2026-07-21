@@ -16,7 +16,9 @@ Log every source used anywhere in this repo here. Format:
 - Water-demand math (15B liters/1GW facility, Central Luzon deficit) — Luis Buenaventura, X thread, July 2026 — https://x.com/helloluis/status/2078689261461852432 — used in: case_study/new_clark_city.md
 - Data center water transparency gap — AGU Advances (Privette et al.), Feb 2026 — https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025AV002140 — used in: README.md
 - Investor pressure on Amazon/Microsoft/Google — Tom's Hardware, April 2026 — https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption — used in: README.md
-- Data Center Transparency Act / POWER Act — ABA Water Spring 2026 Report — https://www.americanbar.org/groups/infrastructure-regulated-industries/resources/committee-articles/2026/water-spring-2026-report/ — used in: solutions/policy_solutions.md
+- Data Center Water and Energy Transparency Act / POWER Act — ABA Water Spring 2026 Report — https://www.americanbar.org/groups/infrastructure-regulated-industries/resources/committee-articles/2026/water-spring-2026-report/ — used in: solutions/policy_solutions.md
+- Durbin introduces Data Center Water and Energy Transparency Act — Durbin Senate press release, March 2026 — https://www.durbin.senate.gov/newsroom/press-releases/as-utility-costs-rise-durbin-introduces-new-legislation-to-bring-transparency-to-energy-and-water-consumption-by-data-centers — retrieved 2026-07-21 — used in: README.md, solutions/policy_solutions.md
+- Illinois POWER Act fails to advance (session ended May 31, 2026) — Circle of Blue / Capitol News Illinois / STLPR, May–June 2026 — https://www.circleofblue.org/2026/water-policy-politics/illinois-fails-to-pass-landmark-act-requiring-responsible-data-center-energy-and-water-use/ — retrieved 2026-07-21 — used in: README.md, solutions/policy_solutions.md
 - Company transparency rankings (Digiconomist) — Axios, July 10 2026 — https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use — used in: README.md
 - Data center water problem policy recommendations — ITIF, July 6 2026 — https://itif.org/publications/2026/07/06/the-data-center-water-problem-is-soluble/ — used in: solutions/policy_solutions.md
 
@@ -35,4 +37,15 @@ Log every source used anywhere in this repo here. Format:
 
 **Corpus note:** text extracted from the official PDFs with pypdf (see analysis/). Extraction is lossy on tables/figures — cross-check any specific number against the original PDF page before quoting it.
 
-**Note:** re-verify these are still live/accurate before publishing the repo publicly — several are recent news items (weeks old as of this scaffold) and situations like Pax Silica are actively developing.
+## Verification pass — 2026-07-21
+
+All seed sources re-checked (direct fetch where possible, search corroboration where bot-blocked):
+
+- **Verified by direct fetch:** w.media (exact date: April 28, 2026), Manila Times (protest date July 13 confirmed; Tapang quotes verbatim), SCMP (July 17, 2026), ITIF (July 6, 2026, Robin Gaster; four policy recommendations confirmed), Tom's Hardware (headline confirms "more than a dozen shareholders", site-specific disclosure demand, ahead of annual meetings).
+- **Live, verified via search (fetch bot-blocked, 403):** Rappler, Inquirer (5GW figure, BCDA sourcing power outside NCC, and Maharlika interest all corroborated), Axios (Digiconomist ranking confirmed: Meta 1st, Google/Microsoft toss-up 2nd, Amazon last; also — Amazon has the strongest water-efficiency *figure* while ranking last on transparency, and Microsoft newly disclosed site-level metrics, called "a significant improvement" by de Vries-Gao), ABA (bill facts confirmed via Durbin press release and Illinois coverage instead).
+- **Paywalled, existence + thesis verified:** AGU Advances Privette et al. — "Data Centers Water Footprint: The Need for More Transparency," Privette, Barros & Cai, AGU Advances 7, e2025AV002140 (2026). The ~1 trillion liters (North America, 2025) figure is corroborated by multiple secondary sources; the previously cited "1.4 trillion liters by 2030" could NOT be corroborated and was replaced in README.md with UC Riverside's 1.1–1.7 trillion gallons by 2027 projection.
+- **Unfetchable (login wall):** Buenaventura X thread — URL still live per search index; its 15B-liters-per-1GW estimate is consistent with Tapang's independently reported 5M gallons/day figure (≈7B liters/yr) as an order-of-magnitude cross-check, and is credited as an individual's estimate, not an official figure.
+
+**Corrections applied this pass:** federal bill is the "Data Center Water and Energy Transparency Act" (Durbin, March 2026), not "Data Center Transparency Act, Jan 2026"; Illinois POWER Act (introduced Feb 11, 2026) died without a floor vote at the May 31, 2026 session end; README's unsupported 1.4T-liter 2030 projection replaced.
+
+**Note:** re-verify again before any formal publication — Pax Silica in particular is developing week to week (framework signing targeted for the November 2026 ASEAN Summit).

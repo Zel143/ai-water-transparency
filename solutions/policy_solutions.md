@@ -6,7 +6,7 @@ Organized by who has to act, since "we need accountability" only becomes actiona
 
 | Solution | Status (mid-2026) | Feasibility |
 |---|---|---|
-| Standardized facility-level water reporting (not just global aggregates) | Proposed federally (Data Center Transparency Act, Jan 2026); proposed in Illinois ("POWER Act") | Medium — faces industry pushback on compliance cost |
+| Standardized facility-level water reporting (not just global aggregates) | Proposed federally (Durbin's Data Center Water and Energy Transparency Act, March 2026); Illinois POWER Act (Feb 2026) died without a vote at May 31, 2026 session end | Medium — faces industry pushback on compliance cost; Illinois outcome shows even disclosure-only mandates stall |
 | Mandatory water-risk assessment before new facility approval | Recommended by ITIF (2026), not yet mandatory | High — cheapest lever, mostly a paperwork/process change |
 | Investor-driven disclosure pressure (shareholder proposals) | Already happening — 12+ investors pressed Amazon/Microsoft/Google ahead of 2026 AGMs | High — already moving without new law |
 | Disclosure of water/energy commitments *inside* incentive agreements (tax breaks, land deals) | Not currently required | Medium — directly relevant to cases like Pax Silica, where the land deal preceded any public water plan |

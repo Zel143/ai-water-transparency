@@ -8,10 +8,10 @@ This project treats corporate sustainability/ESG reports as a text corpus and as
 
 ## Why This Matters
 
-- North American data centers consumed an estimated ~1 trillion liters of water in 2025, and hyperscale water demand is projected to reach 1.4 trillion liters/year globally by 2030.
+- North American data centers consumed an estimated ~1 trillion liters of water in 2025; UC Riverside researchers project global AI demand could drive 1.1–1.7 trillion *gallons* of annual water withdrawals by 2027.
 - Independent transparency audits already show a real spread: Meta ranks most transparent, Google/Microsoft roughly tied, Amazon least transparent — but transparency rank doesn't track efficiency rank, meaning "says more" ≠ "does better."
 - Investors (a dozen+ shareholders ahead of 2026 AGMs) are explicitly pressuring Amazon, Microsoft, and Google for site-level (not aggregate) water disclosure.
-- Legislative responses are emerging but stalled/early: the federal Data Center Transparency Act (introduced Jan 2026) and Illinois' proposed "POWER Act."
+- Legislative responses are emerging but stalled/early: Sen. Durbin's federal Data Center Water and Energy Transparency Act (introduced March 2026) and Illinois' POWER Act (introduced Feb 2026; failed to reach a vote before the session ended May 31, 2026).
 
 ## Case Study: Pax Silica / New Clark City, Philippines
 
@@ -63,7 +63,7 @@ The v2 scorer (`analysis/confidence_scorer_v2.py`) fixes this — NER-based plac
 
 **Requiring site-level specificity collapses every company to near zero.** Amazon leads raw number density, but ≥95% of every company's quantified water sentences are aggregate (global or regional totals). The verified site-level disclosures across all four reports amount to a handful of sentences — Amazon's Mississippi reclaimed-water deal and India sewage-treatment plants, one Google sentence. Microsoft's and Meta's zeros were hand-audited: their top quantified sentences are all global figures with no place named.
 
-Read together, the script and the audit stop contradicting each other: they measure different things. Amazon *sounds* most quantified; on the granularity dimension auditors actually care about, all four reports are equally opaque. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
+Read together, the script and the audit stop contradicting each other: they measure different things. Amazon *sounds* most quantified; on the granularity dimension auditors actually care about, all four narrative reports are equally opaque. One important scope caveat: this corpus holds each company's *narrative* report. Per the Digiconomist review (Axios, July 2026), Microsoft's latest disclosure includes site-level water/power metrics for individual data centers — those live in its companion Data Fact Sheet, not the narrative report scored here. So Microsoft's 0% measures the rhetoric of the flagship document, not the company's full disclosure surface; scoring the fact sheets is queued follow-up work. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
 
 ### Case in point: Amazon's 9.4-billion-liter coincidence
 
