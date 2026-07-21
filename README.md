@@ -27,6 +27,7 @@ ai-water-transparency/
 ├── analysis/
 │   ├── confidence_scorer.py       <- v1: hedging/assertiveness + quantification scoring
 │   ├── confidence_scorer_v2.py    <- v2: + site-level detection, boilerplate filter
+│   ├── table_scorer_v3.py         <- v3: structured site-level table disclosure
 │   ├── requirements.txt
 │   └── README.md                  <- methodology notes
 ├── case_study/
@@ -63,7 +64,18 @@ The v2 scorer (`analysis/confidence_scorer_v2.py`) fixes this — NER-based plac
 
 **Requiring site-level specificity collapses every company to near zero.** Amazon leads raw number density, but ≥95% of every company's quantified water sentences are aggregate (global or regional totals). The verified site-level disclosures across all four reports amount to a handful of sentences — Amazon's Mississippi reclaimed-water deal and India sewage-treatment plants, one Google sentence. Microsoft's and Meta's zeros were hand-audited: their top quantified sentences are all global figures with no place named.
 
-Read together, the script and the audit stop contradicting each other: they measure different things. Amazon *sounds* most quantified; on the granularity dimension auditors actually care about, all four narrative reports are equally opaque. One important scope caveat, verified directly: this corpus holds each company's *narrative* report, and Microsoft's site-level data exists — just not there. Its companion **Data Fact Sheet** (also in `corpus/`) carries Table 15, disclosing per-city electricity, water withdrawal, % non-potable, and replenishment for ~29 named datacenter locations (with some cells withheld). The Digiconomist review singled this out as "a significant improvement in transparency." Yet the sentence-based scorer rates the fact sheet *lower* than the narrative (5.3% vs. 8.5% quantified sentences, both 0% site-level), because tabular disclosure is invisible to sentence-level scoring. Two lessons: (1) the confidence–candor split can run *between documents* — confident aggregate rhetoric in the flagship report, hedged technical tables in the annex; (2) this scorer measures narrative rhetoric only, and a full disclosure audit needs a structured-data instrument alongside it. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
+Read together, the script and the audit stop contradicting each other: they measure different things. Amazon *sounds* most quantified; on the granularity dimension auditors actually care about, all four narrative reports are equally opaque. One caveat matured into its own instrument. Site-level data turns out to exist for two companies — but in **tables**, which sentence scoring cannot see: Microsoft's companion Data Fact Sheet carries Table 15 (~29 cities × electricity/withdrawal/%-non-potable/replenishment, some cells withheld), and Google's per-site water table (~38 locations × withdrawal/discharge/consumption) sits in the appendix *of the very report the sentence scorer processed*. The v3 table scorer (`analysis/table_scorer_v3.py`) measures this structured layer directly:
+
+| company | prose "sounds quantified" (v2 pct_quant) | structured site-level water disclosure (v3) |
+|---|---|---|
+| amazon | **17.8%** (highest) | **0 sites** |
+| google | 8.8% (lowest with Microsoft) | **37 sites × 4 metrics, 0 withheld** (strongest) |
+| microsoft | 8.5% | 26 sites × 3 metrics, ~11% cells withheld (in annex, not flagship report) |
+| meta | 13.1% | 0 sites in scored documents* |
+
+*Meta publishes a separate Environmental Data Index PDF not yet in the corpus.
+
+The rhetoric axis and the structure axis **disagree, almost perfectly inversely**: the company with the most quantified-sounding prose (Amazon) discloses zero structured site-level data, while the company with the strongest structured disclosure (Google) has nearly the least quantified prose. This is the project's research question answered in preliminary form: confident, number-dense rhetoric is not where the real disclosure lives — and measuring only one layer (as v1/v2 did, and as a casual reader does) gets the transparency ranking almost exactly backwards. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
 
 ### Case in point: Amazon's 9.4-billion-liter coincidence
 
