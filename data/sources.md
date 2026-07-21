@@ -35,6 +35,9 @@ Log every source used anywhere in this repo here. Format:
 
 - [PH Government] "BCDA reviewing Korean water proposal" — Tarlakenyo, Feb 2026 — https://tarlakenyo.com/2026/02/bcda-reviewing-korean-water-proposal/ — retrieved 2026-07-21 — used in: case_study/new_clark_city.md (K-Water/Maynilad ₱15B joint venture, 20–30M → 150M L/day capacity figures)
 
+- [Microsoft] "2026 Environmental Sustainability Report — Data Fact Sheet" (covers FY2025) — Microsoft, July 2026 — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf — retrieved 2026-07-21 — used in: corpus/microsoft_datafactsheet_2026.txt, README.md
+  - **Finding:** Table 15 ("FY25 Datacenter water and electricity use by location") discloses per-city electricity (MWh), water withdrawal (ML), % non-potable, and replenishment for ~29 named datacenter locations — the site-level disclosure the narrative report lacks (some cells withheld, marked * or —). The sentence-based scorer rates this document LOWER than the narrative (5.3% vs 8.5% pct_quant, both 0% site-level) because tabular disclosure is invisible to sentence-level scoring — a methodological boundary now noted in README.md.
+
 **Corpus note:** text extracted from the official PDFs with pypdf (see analysis/). Extraction is lossy on tables/figures — cross-check any specific number against the original PDF page before quoting it.
 
 ## Verification pass — 2026-07-21
