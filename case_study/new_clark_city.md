@@ -15,11 +15,20 @@ In April 2026 the Philippines became the 13th signatory of the Pax Silica Declar
 
 On July 13, 2026, a coalition of scientists, environmentalists, and farmers marched from Manila to the US Embassy to oppose the hub. Dr. Giovanni Tapang (UP College of Science) warned of a resource-conflict dynamic: because access to water at this scale will effectively go to whoever can pay for it, poorer residents risk losing out. Critics have also framed the deal as a form of resource "neocolonialism," pointing out the Philippines is the only Pax Silica member offering land at this scale.
 
+## The Government's Water Rhetoric
+
+The official record so far is an instance of the project's core pattern:
+
+- **BCDA's flagship announcement (April 20, 2026) contains zero mentions of water.** The press release covers land area, lease terms, supply-chain framing, and job creation — no supply plan, consumption estimate, or watershed reference. (Full text in `corpus/bcda_paxsilica_2026.txt`; absence logged in `data/sources.md`.)
+- **The first substantive government water statement came only after the protests** — Defense Secretary Gilberto Teodoro Jr., July 20, 2026: "There is no reason to worry. What we should be concerned about is the improper use of water. Water can also be recycled. If you collect water, you can build impounding systems." And: "The DENR or anybody will not approve any project without water system sustainability."
+
+Note the form of the reassurance: assertive, zero quantities, no named source or watershed — deferring to a future regulatory approval rather than presenting a water balance. High confidence, low transparency, in exactly the sense the scorer measures for the corporate corpus.
+
 ## What's Being Done (as of mid-2026)
 
-- Maynilad has pitched a ~15-billion-peso wastewater processing system for New Clark City (announced Feb 2026).
+- A joint K-Water (Korea) / Maynilad bid — a proposed 50-year, ~₱15-billion joint venture — would manage New Clark City's water and wastewater systems, raising supply capacity from the current 20–30 million liters/day to ~150 million liters/day.
 - New Clark City signed a partnership with Marubeni (Japan) in June 2026 to upgrade energy infrastructure.
-- Neither of these is a completed water solution yet — they're the closest existing steps toward one.
+- Neither of these is a completed water solution yet — they're the closest existing steps toward one. (For scale: 150M L/day ≈ 55B liters/year of *total city supply capacity* against ~15B liters/year demanded by each 1GW of data center.)
 
 ## Why This Case Study Matters for the Repo
 
@@ -33,5 +42,8 @@ Pax Silica is a live test of the exact disclosure-transparency question this pro
 - SCMP, "Philippines' Pax Silica AI hub plan slammed for mineral 'plunder'," 2026
 - Inquirer, "Pax Silica's mammoth power needs draw Maharlika, foreign interest," 2026
 - Luis Buenaventura (X/Twitter thread), water-demand estimate calculations, July 2026
+- BCDA press release, "New Clark City to serve as AI hub under US-led Pax Silica Initiative," April 20, 2026
+- Manila Bulletin, "Defense chief dismisses water scarcity fears for Pax Silica project," July 20, 2026
+- Tarlakenyo, "BCDA reviewing Korean water proposal," Feb 2026 (K-Water/Maynilad joint venture details)
 
 *(Log full URLs and retrieval dates in `data/sources.md`.)*
