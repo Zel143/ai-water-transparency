@@ -3,4 +3,5 @@ __pycache__/
 .venv/
 venv/
 results.csv
+context/
 .DS_Store
