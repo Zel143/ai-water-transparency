@@ -20,4 +20,13 @@ Log every source used anywhere in this repo here. Format:
 - Company transparency rankings (Digiconomist) — Axios, July 10 2026 — https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use — used in: README.md
 - Data center water problem policy recommendations — ITIF, July 6 2026 — https://itif.org/publications/2026/07/06/the-data-center-water-problem-is-soluble/ — used in: solutions/policy_solutions.md
 
+## Corpus sources (primary documents, retrieved 2026-07-21)
+
+- [Microsoft] "2026 Environmental Sustainability Report" (covers FY2025) — Microsoft, July 2026 — https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2026-Microsoft-Environmental-Sustainability-Report-PDF.pdf — retrieved 2026-07-21 — used in: corpus/microsoft_sustainability_2026.txt
+- [Google] "2026 Environmental Report" (covers FY2025) — Google, 2026 — https://storage.googleapis.com/gweb-mobius-cdn/sustainability/uploads/7f477eb723fe0c23d03f94b90a08882b9f28187d.pdf (linked from https://sustainability.google/reports/google-2026-environmental-report/) — retrieved 2026-07-21 — used in: corpus/google_environmental_2026.txt
+- [Amazon] "2025 Amazon Sustainability Report" (covers FY2024; latest available as of July 2026) — Amazon, 2025 — https://sustainability.aboutamazon.com/2025-amazon-sustainability-report.pdf — retrieved 2026-07-21 — used in: corpus/amazon_sustainability_2025.txt
+- [Meta] "2025 Sustainability Report" (covers FY2024; Meta's 2026 report not yet published as of July 2026 — reporting-cycle lag itself worth noting in the writeup) — Meta, Aug 2025 — https://sustainability.atmeta.com/wp-content/uploads/2025/08/Meta_2025-Sustainability-Report_.pdf — retrieved 2026-07-21 — used in: corpus/meta_sustainability_2025.txt
+
+**Corpus note:** text extracted from the official PDFs with pypdf (see analysis/). Extraction is lossy on tables/figures — cross-check any specific number against the original PDF page before quoting it.
+
 **Note:** re-verify these are still live/accurate before publishing the repo publicly — several are recent news items (weeks old as of this scaffold) and situations like Pax Silica are actively developing.
