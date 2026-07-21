@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-results.csv
+results*.csv
 context/
 .DS_Store
