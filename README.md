@@ -68,20 +68,20 @@ Read together, the script and the audit stop contradicting each other: they meas
 
 | company | prose "sounds quantified" (v2 pct_quant) | structured site-level water disclosure (v3) |
 |---|---|---|
-| amazon | **17.8%** (highest) | **0 sites** |
-| google | 8.8% (lowest with Microsoft) | **37 sites × 4 metrics, 0 withheld** (strongest) |
-| microsoft | 8.5% | 26 sites × 3 metrics, ~11% cells withheld (in annex, not flagship report) |
-| meta | 13.1% | 0 sites in scored documents* |
+| amazon | **17.8%** (highest) | **0 sites — across all three scored documents** |
+| google | 8.8% (lowest with Microsoft) | **37 sites × 4 metrics, 0 withheld** (in main report's appendix) |
+| microsoft | 8.5% | 26 sites × 3 metrics, ~11% cells withheld (in annex fact sheet) |
+| meta | 13.1% | ~18 sites × 5-yr withdrawal history (in separate Environmental Data Index) |
 
-*Meta publishes a separate Environmental Data Index PDF not yet in the corpus.
-
-The rhetoric axis and the structure axis **disagree, almost perfectly inversely**: the company with the most quantified-sounding prose (Amazon) discloses zero structured site-level data, while the company with the strongest structured disclosure (Google) has nearly the least quantified prose. This is the project's research question answered in preliminary form: confident, number-dense rhetoric is not where the real disclosure lives — and measuring only one layer (as v1/v2 did, and as a casual reader does) gets the transparency ranking almost exactly backwards. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
+The rhetoric axis and the structure axis **disagree, almost perfectly inversely**: three of four companies publish real per-site water tables — always in appendices or annex documents, never in the narrative a casual reader sees — while Amazon, the company with the most quantified-sounding prose, is the only one publishing no structured site-level water data anywhere in its scored documents (main report, AWS summary, and methodology paper included). This is the project's research question answered in preliminary form: confident, number-dense rhetoric is not where the real disclosure lives, and measuring only the narrative layer gets the transparency ranking almost exactly backwards. It also independently reproduces the Digiconomist audit's ranking (Meta/Google/Microsoft above Amazon) from document structure alone. Meta — the most hedged and least number-dense reporter here — is the one independent auditors rank most transparent, suggesting **rhetorical number-density and audit-grade transparency are, if anything, anti-correlated** in this corpus. (Caveats apply: four reports, hand-built lexicon — see `analysis/README.md`.)
 
 ### Case in point: Amazon's 9.4-billion-liter coincidence
 
 Amazon's 2025 report states that data centers **withdrew 9.4 billion liters** (p. 14) and that replenishment projects **returned 9.4 billion liters** to communities (p. 16) — identical headline figures. Yet the same report claims only **75% progress** toward its water-positive goal, and the endnote formula behind that number (endnote 16, p. 50: *(reused water + replenishment) ÷ (withdrawal − sustainable sources)*) relies on component volumes — credited replenishment, reused water, the "sustainable sources" subtraction — that are **not disclosed anywhere in the report**. The 75% cannot be recomputed from the report's own published numbers; the reconciliation lives in an external methodology document, and the matching 9.4B figures are a two-significant-figure rounding coincidence with (likely) different scopes.
 
 This is the project's thesis in miniature: **quantified is not the same as verifiable.** The most number-dense report of the four publishes a headline goal metric that its own numbers cannot reproduce.
+
+Follow-up with the methodology document itself (March 2026, now in `corpus/`) deepens rather than resolves this: it defines every term in the formula — reused water, VWBA-accounted replenishment, the sustainable-sources subtraction — but publishes **no annual component volumes**, so the 75% stays non-recomputable even with the methodology in hand. It also reveals that the two matching 9.4B figures are categorically different measurements: withdrawal is metered, while replenishment volumes are largely *modeled* (precipitation-based estimates and "conservative assumptions" for projects that can't be measured).
 
 ## Status
 

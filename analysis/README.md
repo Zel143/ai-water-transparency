@@ -50,14 +50,17 @@ python table_scorer_v3.py ../corpus/google_environmental_2026.txt --dump   # aud
 |---|---|---|---|---|
 | google_environmental_2026 | 37 | 4 | 0 | 31 (PUE table) |
 | microsoft_datafactsheet_2026 | 26 | 3 | 11 (11.1%) | 4 |
+| meta_dataindex_2025 | 12 | 5 | 3 (5%) | 11 (GHG/electricity) |
 | microsoft_sustainability_2026 | 0 | — | — | 0 |
-| amazon_sustainability_2025 | 0 | — | — | 29 (non-water) |
 | meta_sustainability_2025 | 0 | — | — | 0 |
+| amazon_sustainability_2025 | 0 | — | — | 23 (non-water) |
+| amazon_awssummary_2025 | 0 | — | — | 0 |
+| amazon_waterpositive_methodology | 0 | — | — | 0 |
 | bcda_paxsilica_2026 | 0 | — | — | 0 |
 
-Detection is heuristic on PDF-extracted text — counts are floors (hand counts: Google ~38, Microsoft ~29), and stray footnote markers can inflate a row's metric count by one. Use `--dump` before quoting any number.
+Detection is heuristic on PDF-extracted text — counts are floors (hand counts: Google ~38, Microsoft ~29, Meta ~18; Meta's PDF text layer is badly mangled and layout-mode extraction recovers only 12 rows cleanly), and stray footnote markers can inflate a row's metric count by one. Use `--dump` before quoting any number.
 
-**Interpretation:** structured site-level water disclosure exists for exactly two companies — Google (37 sites × withdrawal/discharge/consumption, no withheld cells) and Microsoft (26 sites via the annex fact sheet, with ~11% of cells withheld). Amazon's and Meta's scored documents contain none (Amazon's 29 site rows are all in non-water tables). Combined with v2: the rhetoric metrics and the structure metrics *disagree* — Amazon leads on quantified-sounding prose but has zero structured site disclosure; Google's prose is modest but its appendix is the strongest structured disclosure in the corpus. Note Meta publishes a separate "Environmental Data Index" PDF not yet in the corpus — fetch before treating Meta's zero as final.
+**Interpretation:** three of the four companies publish structured site-level water disclosure — Google (37 sites × withdrawal/discharge/consumption, no withheld cells, in its main report's appendix), Microsoft (26 sites in the annex fact sheet, ~11% cells withheld), and Meta (~18 sites × 5-year withdrawal history in its separate Environmental Data Index). **Amazon is the only company with zero structured site-level water disclosure across all three of its scored documents** — including its AWS-specific summary and its Water Positive Methodology (which defines the metric's terms but publishes no annual component volumes). Combined with v2, the inversion sharpens: the company with the most quantified-sounding prose is the only one disclosing no structured site data at all.
 
 ## Known limitations (be upfront about these in your writeup)
 

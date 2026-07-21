@@ -190,7 +190,7 @@ def _header_like(line: str) -> bool:
         return False
     numeric, _ = _cells(toks)
     alpha = sum(1 for t in toks if any(c.isalpha() for c in t))
-    return alpha >= 3 and numeric <= 2
+    return alpha >= 2 and numeric <= 2
 
 
 def score_file(path: Path) -> dict:

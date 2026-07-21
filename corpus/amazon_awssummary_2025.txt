@@ -1,0 +1,1274 @@
+Sustainability 
+Report
+2025
+AWS Summary
+Amazon
+
+About AWS
+AWS is the world’s most comprehensive and broadly 
+adopted cloud offering, with millions of global users 
+depending on it every day. To build a more sustainable 
+business for our customers and for the world we all share, 
+we are designing data centers to provide the efficient, 
+resilient service our customers expect while minimizing 
+our environmental footprint—and theirs.
+The data within this summary reflects progress from 
+January 1 through December 31, 2025, unless otherwise 
+indicated. All financial figures are reported in U.S. 
+dollars ($), unless otherwise stated. 
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+2 | 
+How to Navigate This Report
+Look for these symbols throughout this report:
+A link to a website
+A link within the report
+A link to a download
+Learn more about Amazon’s overall 
+progress in our 2025 Sustainability Report 
+Overview
+2 About AWS
+3 2025 Year in Review
+4 AI for Sustainability
+6 Climate and Energy
+8 Water
+10 Waste and Circularity
+11 Biodiversity
+12 Human Rights
+13 Employee Experience
+13 Responsible Supply Chain
+14 Communities
+15 Endnotes
+At our data centers, new components are being 
+rolled out that combine advances in power, 
+cooling, and hardware to help reduce energy and 
+water consumption.
+Learn more about our cover photos
+
+2025 Year in Review
+As we reflect on 2025, we are proud of our achievements. We have continued
+to strengthen our environmental practices, enhance our value chain, support
+our employees and communities, and foster a safer, more inclusive workplace.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+3 | 
+33
+Data centers constructed with
+lower-carbon steel in 2025, 
+in addition to 67 since 2023
+1.14
+Global Power Usage Effectiveness 
+for AWS data centers, better than 
+the public cloud industry average
+of 1.25
+100%
+Of the electricity consumed by Amazon
+was matched with renewable energy sources 
+in 2025, for the third consecutive year
+$17.9M
+In AWS cloud and AI technology 
+distributed for education
+9.4B
+Liters of water returned to 
+communities from active 
+replenishment projects at the end
+of 2025, with more than 18 billion 
+liters of total annual replenishment 
+volume contracted for future years
+0.12
+L/kWh global Water Use 
+Effectiveness for AWS data centers, 
+improved 20% from 2024 and 52% 
+since 2021
+130
+AWS data centers contracted to use 
+reclaimed water for cooling across 
+six countries
+225K
+Metric tons of CO 2e prevented by 
+reusing and reselling data center 
+hardware since 2020
+14.4K
+Unemployed or underemployed 
+individuals trained through AWS
+re/Start 12-week training sessions 
+144.5K
+Learners connected to employers 
+through the AWS Skills to Jobs 
+Tech Alliance 
+AWS will be water positive across 
+data centers by 2030, returning 
+more water to communities than 
+we use in our direct data center 
+operations
+75% 
+Of the way toward meeting our data 
+center water positive goal
+
+AI for 
+Sustainability
+From the recommendation engines that personalize 
+shopping experiences to the AI-powered robots that 
+optimize order fulfillment in our warehouses, we have 
+developed and deployed artificial intelligence (AI) and 
+machine learning (ML) models to power customer 
+experiences and internal operations for over 25 years. One 
+of our longest-standing examples of using AI to make 
+customers’ lives easier is Alexa, our AI assistant, which 
+launched more than a decade ago.
+AI for Efficiency
+We use AI to improve efficiency and address sustainability 
+challenges across our value chain. Not only do we develop 
+and deploy our own AI solutions, we also support 
+partners, industry organizations, and coalitions through 
+funding, accelerator programs, and collaborative 
+initiatives. For example, in 2025, our Amazon 
+Sustainability Accelerator welcomed Greyparrot, which 
+has developed a computer vision system that observes 
+waste conveyor belts to identify and categorize more than 
+110 different types of waste in real time.
+AI for Innovation and Access
+We also focus on democratizing access to the benefits of 
+AI and helping develop AI expertise globally, empowering 
+others to address the world’s most urgent and complex 
+challenges. The Idaho National Laboratory and Lawrence 
+Livermore National Laboratory are using our AI 
+technology to help advance the next generation of safe 
+nuclear energy. The AWS Education Equity Initiative
+ , a 
+$100 million, five-year investment in AI technology, 
+expands access to education and technical skills globally. 
+We also help reduce barriers to deploying fast, capable AI 
+with our cost-effective Amazon Nova
+ portfolio of AI 
+models and services, designed to help customers move 
+from experimentation to reliable production at scale.
+Responsible AI
+As we continue to scale our AI capabilities and 
+democratize access to the benefits of AI, we also take 
+responsibility for mitigating the risks of our technology. 
+Our policies and tools provide guardrails for deploying AI 
+in our infrastructure. We actively collaborate to advance 
+standards for responsible AI, through efforts such as the 
+G7 AI Hiroshima International Process Code of Conduct, 
+the U.S. Artificial Intelligence Safety Institute Consortium, 
+and the Frontier Model Forum. We also developed a 
+Frontier Model Safety Framework
+ that outlines the 
+protocols we follow to ensure that the frontier models we 
+develop do not exceed specified risk thresholds without 
+appropriate safeguards in place.
+Although AI can increase energy and water demand in 
+data centers, we are pioneering designs such as 
+configurable liquid-to-chip cooling
+ that substantially 
+reduce both. We are committed to sourcing carbon-free 
+energy and returning more water to our communities 
+than we withdraw for our data center operations. 
+Additionally, we pay for the full electricity costs of our 
+data centers while making substantial investments in 
+building new energy generation and transmission 
+infrastructure that benefits our broader communities.
+At the root of this work is our core belief that AI is not 
+just a tool but can be a turning point for sustainability 
+when it is developed and deployed responsibly. We 
+provide details on our efforts to leverage AI for 
+sustainability and improve the sustainability of AI 
+throughout this summary. Click on the links in the 
+infographic to the right to learn more.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+4 | 
+Biodiversity
+In 2025, Amazon adopted use of an AI 
+tool, BNG.AI, to enable rapid assessment 
+of the biodiversity value of potential 
+development sites in the UK.
+Learn more here
+ 
+Waste and Circularity
+In 2025, we began using AI-powered 
+robots to demanufacture AWS 
+equipment, securely disassembling 
+servers into components to be securely 
+reused or recycled.
+Learn more here
+ 
+Climate and Energy
+As of 2025, AI utility monitoring tools 
+quickly identify leaks, malfunctioning 
+HVAC and refrigeration systems, and 
+operational opportunities at 820 
+Amazon buildings.
+Learn more here
+ 
+Employee Experience
+To improve access to benefits and 
+compensation information, we 
+enhanced our internal A to Z app and 
+website with an AI assistant, Aza, that 
+offers easily accessible and personalized 
+information about benefits, health care, 
+and paid time off.
+Learn more here
+ 
+Water
+We were a founding partner in the 
+launch of the Water-AI Nexus Center 
+of Excellence, a collaborative effort 
+to advance water sustainability for 
+AI infrastructure.
+Learn more here
+ 
+Responsible Supply Chain
+AI modeling tools help identify suppliers 
+at higher risk of not meeting our Supply 
+Chain Standards, streamlining processes 
+and aiding our experts to prioritize which 
+suppliers to audit.
+Learn more here
+ 
+eHuman Rights
+In 2025, Amazon used AI to transform data 
+into actionable insights to inform priorities, 
+due diligence, and decision making across 
+our global supplier network.
+Learn more here
+ 
+Responsible Business Practices
+Recognizing the transformative potential 
+of AI, we embed eight priorities for 
+responsible development and 
+deployment of AI in our policies, 
+frameworks, and tools.
+Learn more here
+ 
+Scaling AI across Our Value Chain
+
+Recognizing the transformative potential of AI for people 
+and communities worldwide, we are dedicated to 
+fostering its safe, transparent, and responsible 
+development and deployment. Our responsible AI 
+approach is guided by eight priorities: 
+• Fairness: Evaluating the impact of AI on different 
+groups and broader societal issues 
+• Explainability: Understanding and evaluating system 
+outputs, such as responses 
+• Privacy and security: Appropriately obtaining, using, 
+and protecting data and models 
+• Safety: Preventing harmful system output and misuse 
+• Controllability: Having mechanisms to monitor and 
+steer AI system behavior 
+• Veracity and robustness: Achieving correct system 
+outputs, even with unexpected or adversarial inputs 
+• Governance: Incorporating best practices into
+the AI supply chain, from technology providers to
+consumer applications 
+• Transparency: Enabling consumers and companies to 
+make informed choices about their engagement with an 
+AI system 
+The policies and frameworks that set expectations for 
+Amazon’s and our customers’ development and deployment 
+of AI and ML reflect these priorities. The AWS Responsible 
+AI Policy applies to AI and ML services, features, and 
+functionality provided by or through AWS. Our Frontier 
+Model Safety Framework establishes the processes 
+Amazon uses to identify, assess, and manage potential 
+severe risks that could arise as we develop more advanced 
+and highly capable frontier AI models. 
+We also provide our internal teams and our customers 
+with the tools and services they need to design, build, and 
+operate AI systems responsibly
+  . Amazon Bedrock 
+Guardrails  and Model Evaluation in Amazon Bedrock  
+make it easier to introduce safeguards, prevent harmful 
+content, prevent hallucinations, and evaluate models 
+against safety and accuracy criteria. Amazon Nova Canvas
+ 
+applies an invisible watermark to all images it generates 
+to promote the safe, secure, and transparent development 
+of AI technology and help reduce the spread of 
+disinformation. The detection solution can also check for 
+the existence of the watermark, helping customers 
+confirm whether an image was generated by Nova 
+models. In addition, many of our AI Service Cards
+ 
+provide transparent documentation on intended use cases 
+and limitations, responsible AI design choices, and 
+deployment and performance optimization best practices 
+for our AI services and models. This documentation helps 
+AWS customers build their AI applications safely and 
+evaluate models against key safety and accuracy criteria. 
+We also provide guidance to customers using AI in the 
+AWS cloud through the Well-Architected Framework 
+Responsible AI Lens . 
+To protect against performance flaws, we test our AI 
+systems and models using a variety of techniques, 
+including engaging human testers to probe an AI system 
+for flaws in an adversarial style, automated benchmarking 
+against publicly available and proprietary datasets, human 
+evaluation of completions against proprietary datasets, 
+and more. Testing our frontier models helps maintain 
+alignment with our eight priorities for responsible AI.
+To promote data quality and evade potentially harmful 
+prompts in our Amazon Nova frontier models, we 
+implement a comprehensive approach that models both 
+prompts and responses and spans pre-training, 
+evaluation, and deployment. 
+We support AI safety and risk assessment and mitigation 
+by engaging with organizations like the National Institute 
+of Standards and Technology, including with its AI 
+Consortium and Center for AI Standards and Innovation. 
+We also work with multi-stakeholder organizations, such 
+as Thorn and the Frontier Model Forum, and actively 
+participate in initiatives such as the G7 Hiroshima AI 
+Process Reporting Framework .
+Through initiatives such as Amazon Scholars , our team 
+of AI and data scientists collaborate with leading 
+academic institutions to tackle complex, evolving, and 
+emerging responsible AI challenges, and help inform how 
+we design, build, and operate our AI services. We 
+accelerate our work in AI safety through initiatives such as 
+our Amazon AGI San Francisco Lab
+ and the Amazon 
+Nova AI Challenge . These channels enable us to leverage 
+the work of subject matter experts and discover promising 
+approaches toward aligning our frontier models. 
+As we integrate AI into our operations, we recognize that 
+responsible AI use extends beyond how we deploy these 
+technologies to how they are produced. The development 
+of AI systems depends on physical and human 
+infrastructures that carry environmental and human rights 
+risks—from sourcing rare earth minerals and critical 
+materials for hardware, to energy and water consumption 
+in data centers, to labor conditions for data annotation 
+and content moderation workers whose work underpins 
+model training.
+We are focused on addressing these upstream effects as 
+part of our broader sustainability goals. Our Supply Chain 
+Standards, human rights due diligence program, supply 
+chain social audit processes—which extend to services 
+vendors, including data annotation providers—and 
+minerals sourcing policy and program together form the 
+foundation of this effort. We are working to apply these 
+established frameworks to the supply chains that support 
+AI services, assessing environmental and human rights 
+risks associated with AI-related hardware and services. We 
+recognize that industry-wide standards for production-
+side AI effects are still evolving, and we will engage with 
+emerging frameworks, report transparently on our 
+progress, and contribute to greater accountability across 
+the sector.
+Learn more about how Amazon is building AI with 
+responsibility in mind 
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+5 | 
+How AI Benefits 
+Communities
+In 2025, we integrated cloud and AI technology across 
+community initiatives to automate processes, analyze 
+community sentiment, and enable data-driven decisions. 
+In addition to leveraging AI in ways that directly inform 
+our work, we also equip nonprofit partners and 
+organizations reaching underserved audiences with
+tech-enabled tools to scale their impact. In 2025, we:
+• Provided more than 50,000 learners globally with 
+access to foundational AI skills via AWS Educate, hands-
+on learning with PartyRock and Quick, and access to 
+AWS AI certifications and Udacity Nanodegree through 
+AI & ML Scholars
+ 
+• Supported 575 customers in education, health, and 
+climate with AWS cloud and AI technology
+• Provided AWS cloud and AI training to over 100 
+customers from 34 countries through Amazon’s Social 
+Entrepreneur Accelerators
+• Invested $1 million in 43 organizations and projects to 
+identify practical AI solutions that advance the United 
+Nations Sustainable Development Goals
+Learn more about how we are integrating AI across 
+community initiatives
+
+Climate and 
+Energy
+We have a responsibility to lead meaningful climate action 
+and carbon emissions reductions. Our approach is grounded 
+in climate science and centers on The Climate Pledge
+ , our 
+commitment to reach net-zero carbon emissions across our 
+global operations by 2040. We use our scale and resources 
+to drive transformative progress across our operations and 
+supply chain, while demonstrating that ambitious climate 
+action can align with exceptional customer service, business 
+growth, good jobs, and thriving communities. 
+We aim to achieve net-zero carbon emissions through 
+decarbonization of our operations and supply chain, then 
+neutralizing any residual emissions. Amazon’s approach 
+spans five areas: 
+• Addressing emissions from purchased electricity by 
+driving data center and building efficiency and investing 
+in carbon-free energy, including solar, wind, nuclear, and 
+battery storage 
+• Reducing supply chain emissions by engaging suppliers 
+to set targets and reduce emissions, embedding lower-
+carbon materials in our buildings, and scaling lower-
+carbon fuels in our logistics network 
+• Decarbonizing our direct operations through delivery 
+efficiency, electric vehicles, lower-carbon fuels, and 
+lower-carbon heating and cooling systems 
+• Scaling carbon neutralization to account for residual 
+emissions through nature-based solutions, carbon 
+removal technologies, and super pollutant abatement
+ 
+• Driving collective action through The Climate Pledge, 
+joint action projects, climate finance, innovation 
+investment, and policy advocacy 
+Optimizing Global Cloud 
+Infrastructure
+When businesses and governments choose our data centers, 
+they are choosing infrastructure purpose-built to do more 
+with less energy. Our customer obsession drives us to 
+deliver the highest performance with the lowest possible 
+energy use. That means every AI model trained, every 
+application hosted, and every workload processed runs on 
+some of the most efficient infrastructure in the world. 
+To meet strong customer demand, in 2025 we added more 
+data center capacity globally than any other company, 
+including more than 1.2 gigawatt (GW) in Q4 alone, and we 
+expect AI and cloud services to continue growing. 
+As we grow, we invest relentlessly in efficiency. When a 
+business moves from an on-premises data center to AWS, 
+research
+ estimates that data is processed 4.1 times more 
+efficiently.1 Our custom-designed chips—including 
+Trainium3 for AI model training—offer over five times higher 
+output tokens (i.e., AI-generated responses) per megawatt 
+(MW) of power and four times better performance per MW 
+than its predecessor, while maintaining the same latency or 
+response time per user. We also collaborate with partners 
+like NVIDIA, whose GPU architectures power a broad range 
+of AI workloads across AWS, building on more than 15 years 
+of joint innovation. Together, these investments enable 
+customers like Anthropic and OpenAI to scale their most 
+demanding AI workloads with greater energy efficiency. 
+Beyond silicon, we drive efficiency through software and 
+process improvements that optimize server utilization across 
+our fleet and by developing more efficient network 
+architecture using our custom networking components. We 
+also continue scaling configurable liquid-to-chip cooling
+ in 
+both new and existing data centers. Instead of cooling entire 
+buildings, we deliver precision cooling directly where heat is 
+generated—at the chip. This approach reduces mechanical 
+energy consumption compared to traditional cooling 
+methods by up to 50% during peak cooling—without 
+increasing water usage on a per MW basis.
+To track and provide transparency on how efficiently our 
+data centers use energy, we measure Power Usage 
+Effectiveness (PUE)—a ratio where 1.0 would mean that 
+every watt of electricity goes directly to computing, with 
+nothing lost to cooling, lighting, or other overhead. In 2025, 
+AWS’s global data centers achieved a global PUE of 1.14, 
+nearly 9% better than the public cloud industry average of 
+1.25 and 30% better than the on-premises enterprise data 
+center average of 1.63.2 Our scale allows us to achieve higher 
+resource utilization and energy efficiency than organizations 
+using their own hardware.
+The AWS Energy Management System program standardizes 
+our continual energy efficiency improvement efforts 
+globally. Amazon data centers and services in 35 countries—
+including all of our data centers in Europe, the Middle East, 
+and Africa (EMEA), Singapore, and Indonesia—were ISO 
+50001 Energy Management certified in 2025. 
+Learn more about AWS regional PUE
+ and ISO 50001 
+We also use AI to identify underperforming equipment 
+and operational opportunities. As of the end of 2025, 820 
+Amazon buildings used AI tools to monitor HVAC and 
+water utilities.
+Scaling Carbon-Free Energy
+Amazon has invested billions of dollars scaling carbon-
+free energy, which has enabled more than 712 projects in 
+30 countries as of January 2026—including 80 new 
+projects in 2025—representing 42 GW of carbon-free 
+energy capacity, enough to power 13 million U.S. homes 
+for a year and avoid 48 million metric tons of CO2e once 
+fully operational.3 These investments enabled Amazon to 
+match 100% of the electricity consumed by our 
+operations with renewable energy sources for the third 
+year in a row.4
+Carbon-free energy includes renewable energy 
+technologies, such as wind and solar farms, on-site 
+rooftop solar systems, hydroelectric, geothermal, 
+and nuclear energy. There is no one-size-fits-all solution 
+when it comes to transitioning to carbon-free energy, 
+and we believe that all viable and scalable options should 
+be considered. As the energy needs of our business and 
+customers continue to grow, we are investing in carbon-
+free energy that can both help power our operations and 
+bring new sources of energy to the grid in communities 
+around the world. 
+The transition to carbon-free energy creates meaningful 
+economic opportunities in communities where energy 
+projects are built and operated, while also driving the 
+modernization and resilience of energy infrastructure. 
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+6 | 
+Trainium3 UltraServers deliver higher performance 
+in compute power, energy efficiency, and memory 
+bandwidth.
+
+In 2025, an independent research study commissioned 
+by Amazon confirmed that AWS data centers in the U.S. 
+pay the full costs of electricity, without raising costs for 
+other ratepayers, and generate surplus revenue that 
+utilities can use to invest in grid improvements for 
+customers.
+BloombergNEF continues to recognize Amazon as one of 
+the world's leading corporate purchasers of carbon-free 
+energy, in addition to building the largest carbon-free 
+energy portfolio of any corporation globally. In 2025, 
+we achieved:
+• 131,000 GW-hours (GWh) of carbon-free energy 
+production annually.
+• 375 utility-scale projects in Amazon’s portfolio globally, 
+including 264 solar, 109 wind, and two nuclear projects 
+as of January 2026.
+• 10 new carbon-free energy projects announced in the 
+U.S. as of January 2026, which will add 5.5 GW of 
+capacity to the grid once fully operational. In total, 
+Amazon has announced 291 projects across 30 states, 
+which will bring 25.6 GW of expected capacity to the 
+grid once fully operational. 
+• 55 new carbon-free energy projects announced in 
+Europe as of January 2026, which will add 1.4 GW of 
+capacity to the grid once fully operational. In total, 
+Amazon has announced 287 projects across 15 
+countries, which will bring 10.7 GW of expected capacity 
+to the grid once fully operational. 
+• 11 new carbon-free energy projects in Australia and 
+three in India—announced as of January 2026, adding 
+more than 565 MW of capacity in Australia and 581 MW 
+in India, respectively.
+To meet our climate commitments and growing energy 
+demands—particularly for AI and cloud services—we are 
+building a diverse carbon-free energy portfolio through 
+solar, wind, and nuclear investments. In the future, we will 
+report on the percentage of carbon-free energy used to 
+power our operations.
+Scaling nuclear power is one of our top priorities, while we 
+continue to invest in wind and solar capacity and explore 
+other technologies like geothermal, hydro, and battery 
+storage. Amazon is working with utilities, regulators, and 
+nuclear technology companies to explore ways to improve 
+the safety and output of traditional nuclear plants and 
+supporting development of small modular reactors (SMRs)
+—advanced nuclear reactors with a small physical 
+footprint that enables faster construction and closer 
+proximity to power grids.
+Amazon has made an investment in SMR developer 
+X-energy to help bring 5 GW of new nuclear energy to 
+the U.S. grid by 2039. As part of this initiative, Amazon is 
+helping build one of the first modular nuclear reactor 
+facilities in the U.S. The project, the Cascade Advanced 
+Energy Facility, is a collaboration with Washington State 
+utility Energy Northwest and X-energy. In 2025, Amazon 
+and X-energy also agreed to collaborate with South 
+Korea’s Doosan Enerbility and Korea Hydro & Nuclear 
+Power to accelerate the deployment of new SMRs in the 
+U.S. We also expanded our existing nuclear energy 
+relationship with Talen Energy , which will provide 1,900 
+MW of carbon-free nuclear power through 2042, with 
+options to extend. These long-term contracts provide 
+price stability for nuclear facilities, helping prevent the 
+kind of market-driven shutdowns that have removed 
+nuclear capacity from the grid.
+We are continuing to expand battery capacity to collect 
+and store carbon-free energy to use when other energy 
+sources may be unavailable—such as at night or during 
+periods of high demand—to support grid stability. By the 
+end of 2025, Amazon had 15 solar energy projects paired 
+with battery energy storage systems, representing 2.3 GW 
+of capacity, up from 2.1 GW in 2024.
+Reducing Embodied Carbon in Our 
+Buildings
+Building construction is a major driver of carbon emissions 
+due to the embodied carbon generated from the 
+manufacture, transportation, installation, maintenance, 
+and disposal of building materials. We track the embodied 
+carbon of our building construction materials through 
+collaboration with our building contractors and suppliers.5
+We are investing in and scaling lower-carbon building 
+materials. In 2025, 40 AWS data centers incorporated 
+lower-carbon building materials, such as lower-carbon 
+concrete, steel, and aluminum, avoiding nearly 104,000 
+metric tons of embodied CO₂e compared to traditional 
+construction materials. 
+• Lower-carbon steel: We constructed 33 data centers 
+with lower-carbon steel in 2025, in addition to 67
+since 2023. 
+• Lower-carbon concrete: We constructed 39 data 
+centers with lower-carbon concrete in 2025, in addition 
+to 74 since 2023. 
+• Lower-carbon copper: In early 2026, Amazon agreed to 
+be the first customer for Rio Tinto's lower-carbon 
+copper produced using Nuton bioleaching technology. 
+Engaging with Suppliers
+AWS engages with our suppliers across the semiconductor 
+and electronics manufacturing industries to set emission 
+reductions roadmaps and to increase the adoption of 
+carbon-free electricity. AWS is also a member of SEMI’s 
+Semiconductor Climate Consortium (SCC) and worked to 
+increase access to carbon-free power and decarbonization 
+standards and tools for the semiconductor industry.
+Engaging with Customers
+AWS Sustainability Console
+ , an AWS service that 
+incorporates and replaces the previous Customer Carbon 
+Footprint Tool, allows customers to measure, track, and 
+reduce their estimated environmental impact across AWS 
+services. The methodology behind sustainability 
+calculations (e.g., carbon footprint and allocation to 
+customers) is third-party verified and publicly available. 
+Customers can access granular data by AWS region, 
+service, usage account, and fiscal year, among others, 
+across Scope 1, 2, and 3 carbon emissions, in convenient 
+formats such as dashboard visualizations, comma-
+separated values files, and APIs. Learn more about AWS 
+Customer Carbon Footprint Methodology 
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+7 | 
+At Baldy Mesa Solar and Storage Project, located
+in Adelanto, California, machine learning models 
+predict when and how the project's battery unit 
+should charge and discharge energy back into
+the grid.
+
+Water
+Water is a shared and increasingly constrained resource, 
+especially in high- and extreme-stress regions affected by 
+climate change, population growth, and evolving 
+technological demands. AWS prioritizes responsible water 
+use, using only what we need, managing it efficiently, and 
+standing up water replenishment projects that restore 
+water to the communities where we operate.
+Water Positive Data Centers
+In 2022, AWS announced our goal of being water positive
+—returning more water to communities than we use—
+across global direct data center operations by 2030. By 
+the end of 2025, we achieved 75% of this goal, up from 
+53% in 2024. We measure progress using our Water 
+Positive Methodology .6
+To meet our water positive goal, we are working to minimize 
+water use, source more sustainable alternatives, and invest in 
+water replenishment. We aim to reduce total water 
+withdrawals by improving our water efficiency, measured as 
+Water Use Effectiveness (WUE), the liters of water withdrawn 
+per kilowatt-hour (kWh) of IT load on average.
+We prioritize reducing water use in regions with the highest 
+water stress, which is defined by World Resources Institute’s 
+(WRI) Aqueduct Water Risk Atlas as the measurement of 
+the ratio of total water demand to available renewable 
+surface and groundwater supplies, where higher values 
+signal greater competition among users. In 2025, AWS’s 
+global leased, owned, and shared data centers withdrew 
+9.4 billion liters of water. In 2025, 48% of our total water 
+withdrawals for our leased and owned data centers 
+occurred in regions classified as low water stress, and 22% 
+occurred in regions classified as high or extremely high 
+water stress. 
+Advancing Water Efficiency
+We design AWS data centers to be highly water efficient, 
+using about one-seventh of what an average data center 
+withdraws. Where weather permits, we use Direct 
+Evaporative Cooling, which requires water for less than 
+10% of the year. By using cooling water sparingly and 
+more efficiently, we reduce our electricity demand year-
+round—with the greatest reductions occurring during peak 
+summer conditions when grid stress may be the highest. In 
+some of our highest water stressed regions, including the 
+Middle East, South Africa, and India, we do not use any 
+water to cool our data centers.
+Modern AI chips generate significantly more heat than 
+traditional servers. These chips must be packed closely 
+together to exchange data quickly, which concentrates 
+heat in ways that outside air alone cannot always address.
+We developed the In-Row Heat Exchanger (IRHX), which 
+captures heat directly from high-density AI hardware at the 
+rack before the heat spreads, reducing how often water-
+based cooling needs to run. As we add more AI racks with 
+IRHX, we expect a 9% reduction in water use compared to 
+evaporative air-cooled data centers once fully operational.
+In 2025, we also scaled smart-metering technology across 
+our global data center portfolio, enhancing real-time 
+consumption monitoring that identifies leaks so they can 
+be repaired, preventing further water losses. 
+Collectively, these and other efforts reduced our global 
+cooling water use by 938 million liters in 2025, enabling 
+reduction of our global data center WUE to 0.12 liters per 
+kWh, a 20% improvement from 2024 and a 52% 
+improvement from 2021.
+To further reduce dependence on external water sources, 
+we operate on-site cooling water treatment systems to 
+recirculate water more often through our cooling systems. 
+As of the end of 2025, 31 of our data centers incorporated 
+on-site water treatment.
+Water Use Effectiveness in AWS
+Data Centers
+2021 2022 2023 2024 2025 % ∆ YoY
+Water Use 
+Effectiveness 
+(L/kWh)
+0.25 0.19 0.18 0.15 0.12 -20%
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+8 | 
+7
+Collective Action for 
+Water Resilience
+Collective action drives meaningful progress toward 
+solving water challenges, reflected by Amazon’s co-
+founding of a new initiative, the Water-AI Nexus Center of 
+Excellence , where water utility providers, researchers, 
+and technology companies develop and share best 
+practices to advance water sustainability. The Water-AI 
+Nexus has a dual purpose—advancing water sustainability 
+in AI development while harnessing AI to solve critical 
+water challenges. It seeks to support collaborators in 
+developing innovative solutions, enhancing water 
+efficiency, adopting more sustainable water sources, 
+supporting community reuse projects, and investing in 
+replenishment projects.
+Learn more about the Principles for Sustainable Water 
+Use by Data Centers 
+We remove heat from our data centers while 
+minimizing water use through innovative design and 
+real-time monitoring.
+
+We also collaborate with peers through technology 
+transfer and sharing best practices to improve water 
+efficiency in shared facilities. For example, we 
+collaborated in Singapore to implement a sidestream 
+water treatment system that treats cooling tower water 
+for reuse, reducing overall fresh water demand. 
+Scaling Responsible Water Sources
+for Cooling
+AWS leads the top 10 data center operators
+ in the 
+number of locations utilizing reclaimed water , 
+wastewater that has been treated to high standards 
+for safe reuse in cooling systems. In 2025, 26 AWS data 
+centers used reclaimed water for cooling, preserving 
+849 million liters of potable water for communities and 
+ecosystems.
+As of the end of 2025, we have contracted 13 utilities 
+to supply reclaimed water for cooling at 130 data centers 
+across six countries. Altogether, we expect these 
+commitments to preserve 6 billion liters of fresh water 
+for community use annually. Across both operating 
+and contracted reclaimed water systems, we plan to 
+invest $1 billion in public water infrastructure and 
+treatment upgrades.
+We also capture rainwater on-site to further reduce 
+reliance on potable water. As of the end of 2025, AWS had 
+installed rainwater collection systems at 14 data centers in 
+six countries, with nine new systems added in 2025.
+AWS data centers work directly with local water utilities, 
+government agencies, and policymakers to establish and 
+expand reclaimed water supply programs worldwide. In 
+many regions, existing regulations do not explicitly allow 
+reclaimed water for data center cooling, requiring us to 
+collaborate with stakeholders to establish new use-case 
+classifications and precedent-setting supply agreements. 
+In Hong Kong, China, we achieved policy breakthroughs 
+with the Water Supplies Department, which had 
+previously restricted cooling towers to fresh water use 
+only, paving the way for broader regional adoption of 
+reclaimed water for cooling. In Virginia, U.S., we worked 
+with Loudon Water to enable reclaimed water use in 
+direct evaporative cooling systems, a first in the state, and 
+have since partnered with central Virginia counties to 
+develop similar frameworks. In Mississippi, U.S., AWS 
+became the first data center operator to commit to 
+reclaimed water for cooling, working with Canton 
+Municipal Utilities and Madison County Wastewater 
+Authority to preserve 314 million liters of potable water 
+annually while establishing a scalable model across 
+the state.
+Water Replenishment
+AWS’s investments in water replenishment projects 
+increase water access, availability, and quality by restoring 
+watersheds and bringing clean water, sanitation, and 
+hygiene services to water-stressed communities.
+At the end of 2025, Amazon had invested in 45 
+replenishment projects globally, which we expect will 
+collectively return more than 18 billion liters of water 
+annually once completed. In 2025, water replenishment 
+projects returned 9.4 billion liters of water to communities.
+Learn more about Amazon’s water stewardship efforts
+ 
+and water replenishment portfolio 
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+9 | 
+Where weather permits, we use Direct Evaporative Cooling, 
+which requires water for less than 10% of the year. In some 
+of our highest water stressed regions, including the Middle 
+East, South Africa, and India, we do not use any water to 
+cool our data centers.
+
+Waste and 
+Circularity
+AWS data centers face distinct waste and circularity 
+challenges, involving specialized hardware with complex 
+lifecycles.
+We draw on an industry standard waste management 
+hierarchy that prioritizes prevention, then reduction, reuse, 
+and recycling. To support this hierarchy, we seek to embed 
+circular principles into our operations. We work to prevent 
+waste from the start—through better product and 
+packaging design, inventory management, and material 
+sourcing—and reuse, repurpose, or donate items whenever 
+possible. When materials cannot be reused, we prioritize 
+recycling, followed by energy recovery, with landfill as a last 
+resort. We also engage suppliers to reduce waste in our 
+products and partner with organizations and local 
+municipalities to improve recycling infrastructure and 
+advance the transition to a more circular economy.
+Maximizing Resource Efficiency in 
+Data Centers
+We focus on three pillars to embed circularity in our data 
+center operations: design better, operate longer, 
+and recover more. Through smarter design, extended 
+component lifecycles, and responsible end-of-life 
+management, AWS data centers reduce waste, avoid carbon 
+emissions, and keep valuable materials in circulation.
+Cloud circularity begins with design. AWS focuses on 
+designing data center equipment that operates longer, 
+avoids excess materials, and enables repair and reuse—
+minimizing waste from the start. In 2025, we continued 
+enabling additional data center hardware components to 
+be reused, including central processing units. We are also 
+steadily increasing the use of recycled content into 
+components, such as piloting air-cooled heat sinks with 
+50% recycled aluminum.
+When possible, we seek to use equipment for as long as 
+it is operationally efficient. We are continually improving 
+operational capabilities and extending the life of functional 
+equipment. AWS programs have avoided the purchase of 
+over one million new hard drives since 2023.
+We prioritize improving repair, reuse, and recycling 
+practices to recover more value from decommissioned data 
+center assets. We leverage Amazon’s re:Cycle Reverse 
+Logistics (RRL) to securely assess used data center hardware 
+for repair, refurbishment, and reuse, allowing equipment to 
+be redeployed into inventory or sold to third parties. Since 
+this program was launched in 2020, reverse logistics 
+vendors like RRL have enabled Amazon to source retired 
+components for reuse in data centers or for resale, which 
+prevented 225,000 metric tons of CO2e.8
+For components that cannot be reused, we use RRL hubs, 
+along with specialized vendors, to increase the amount of 
+critical raw materials extracted and recovered. In 2025, RRL 
+retained UL Solutions’ highest Zero Waste certification 
+(Platinum level) for its Ireland facility and is pursuing 
+certifications across additional reverse logistics locations.9
+Extending equipment life and accelerating recovery 
+through technology remains a top priority. In 2025, RRL 
+facilities began using AI-powered robots to demanufacture 
+AWS equipment. The machines, developed by robotics 
+start-up Molg, securely disassemble servers into 
+components to be securely reused or recycled. The 
+partnership started in 2024, when Amazon invested in 
+Molg’s seed round through The Climate Pledge Fund
+ .
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+10 | 
+AWS prioritizes keeping functional drives in use 
+for as long as possible, avoiding early retirement 
+of healthy and working hard drives.
+
+Biodiversity
+Biodiversity—the variety of living species on Earth and 
+the habitats, ecosystems, and natural processes that 
+support them—is essential to planetary health, 
+community well-being, and long-term business 
+resilience. Yet habitat loss from the expansion of 
+agriculture, urban areas, and infrastructure has led to a 
+decline in biodiversity around the world. The complexity 
+of measuring ecosystem and habitat health, limited 
+supply chain traceability across countries and regions, 
+and inconsistent biodiversity regulations complicate 
+efforts to reduce biodiversity loss. Amazon recognizes 
+the urgency of this crisis and the important role 
+companies can play to prevent habitat loss or conversion 
+and restore biodiversity.
+Amazon's approach to biodiversity follows a mitigation 
+hierarchy that prioritizes avoidance and reduction of 
+high-value habitat loss or conversion, focused on three 
+areas: mitigating biodiversity loss in building construction
+—seeking to avoid and minimize impacts related to 
+siting, constructing, and operating our facilities; reducing 
+habitat conversion and restoring biodiversity in our 
+supply chain—working with suppliers to restore 
+biodiversity; and restoring biodiversity in our 
+communities—contributing to nature conservation and 
+restoration in sensitive ecosystems, supported by our 
+$100 million commitment through the Right Now
+ 
+Climate Fund .
+Amazon supports scaling science-based solutions to 
+address biodiversity challenges. As one example, we 
+commissioned the creation of the European Biodiversity 
+Metric (EBM) , an open-source measurement method for 
+assessing continental Europe's natural habitats to help 
+advance biodiversity protection efforts across Europe and 
+demonstrate that rigorous biodiversity assessment can be 
+integrated into business foundation at scaling.
+Mitigating Biodiversity Loss in 
+Building Construction
+To help mitigate potential effects on natural habitats 
+from Amazon’s built environment in our retail operations 
+and data centers, we are continuing to develop metrics, 
+guidance, and tools that promote best practices for 
+preventing habitat loss and enhancing on-site 
+biodiversity.
+We have also developed a biodiversity mitigation 
+framework, setting out rules and mechanisms for 
+avoidance, minimization, and compensation.
+In 2025, Amazon evaluated 40 new sites in the UK to 
+assess the potential change in biodiversity value of a site 
+upon development. Our use of a new tool, BNG.AI™, 
+allowed for rapid evaluation of the biodiversity value of 
+potential development sites. This third-party solution uses 
+satellite imagery, AI, and machine learning to identify and 
+assess habitat type and condition, enhancing the speed, 
+accuracy, and overall efficiency of biodiversity assessments.
+In 2025, Amazon also evaluated biodiversity conditions at 
+55 new sites outside the UK, implementing the approach 
+developed in the UK.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+11 | 
+For projects in the UK, Amazon adopted use of an
+AI tool, BNG.AI™, enabling rapid assessment of the
+biodiversity value of potential development sites.
+
+Human
+Rights
+Amazon’s value chain affects millions of people globally, 
+including those beyond our direct operations. With this 
+scale, we have an important role to play in supporting 
+human rights and the fundamental dignity of the people 
+throughout our value chain, including our employees, 
+suppliers and their workers, customers, and communities 
+connected to our business.
+We work to create an environment where our employees 
+and individuals within our value chain are treated with 
+respect, understand their rights, and feel empowered to 
+speak up. To drive continued improvement, Amazon 
+regularly evaluates and updates our policies, programs, 
+and frameworks that identify, assess, and address salient 
+human rights risks.
+Amazon respects internationally recognized human rights 
+as defined by international standards and frameworks 
+developed by the United Nations (UN) and the 
+International Labour Organization (ILO), including the UN 
+Universal Declaration of Human Rights , the Core 
+Conventions of the ILO , and the ILO Declaration on 
+Fundamental Principles and Rights at Work .
+Developing and Maintaining Strong 
+Policies and Standards
+Amazon’s Global Human Rights Principles reflect our 
+commitment to respecting human rights across all 
+business activities. In January 2025, Amazon updated 
+these principles to align with evolving priorities, 
+international standards, and industry best practices. In 
+addition, Amazon’s Supply Chain Standards
+ set clear 
+expectations for supplier conduct, including AWS 
+suppliers. Amazon’s Modern Slavery Statement
+ 
+details our progress and ongoing efforts to combat 
+modern slavery. 
+Identifying, Assessing, Prioritizing, 
+and Addressing Risk
+To empower individual businesses to own their human 
+rights due diligence, Amazon has established an enterprise-
+wide methodology and created tools for each business to 
+identify and prioritize business-specific salient risks. 
+In 2020, Amazon conducted an enterprise-wide human 
+rights saliency assessment to identify salient human rights 
+risks under international standards.10 Since then, Amazon 
+has conducted a growing number of business-specific due 
+diligence assessments. We deployed Amazon’s in-house risk 
+identification methodology to AWS in 2024. In 2025, we 
+completed a refreshed AWS assessment, expanding our 
+analysis upstream to better understand and act on risks 
+associated with raw materials in our supply chain.
+Engaging with Stakeholders
+We collaborate with stakeholders and industry partners to 
+accelerate both local and global efforts. In 2025, AWS 
+served in a leadership role on the Steering Committee of 
+Tech Against Trafficking, a coalition of technology 
+companies collaborating with global experts to help 
+eradicate human trafficking using technology, leading 
+efforts to develop a comprehensive forced labor data 
+standard, supporting the creation of actionable gap 
+analyses, and championing public-private partnerships 
+that improve the global response to human trafficking.
+Improving Access to Effective 
+Grievance Mechanisms and 
+Remediation
+Amazon provides multiple channels for employees to 
+share feedback and voice any concerns. These employee 
+engagement and communications channels include 
+MyVoice, Connections, and the Amazon Ethics line. 
+All employees, contractors, suppliers, customers, and 
+community members can share feedback and concerns 
+through our Human Rights and Environmental 
+Complaints Form , available in 19 languages globally. In 
+2025, Amazon redesigned the form to include both 
+anonymous and signed-in reporting options, improving 
+transparency and usability.
+Advancing New Technology
+Innovation strengthens our ability to address human 
+rights risks at scale. With a global network of thousands of 
+suppliers, we are developing AI tools to enhance 
+accountability in upholding our standards. In 2025, 
+Amazon explored AI tools to enable more effective risk 
+assessment, audit processing, and decision-making 
+processes across our complex supplier network. As we 
+continue developing and testing this technology, we 
+maintain human oversight and expertise.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+12 | 
+Amazon partners with TAT (formerly Truckers Against 
+Trafficking) to offer employees specialized 
+training on recognizing and safely reporting 
+potential human trafficking situations.
+
+Employee 
+Experience
+Amazon strives to be Earth’s best employer by supporting 
+the health, wellness, and growth of more than 1.5 million 
+full- and part-time employees worldwide. Amazon offers 
+competitive wages, comprehensive benefits, and 
+upskilling programs that support career growth and 
+prepare employees for future opportunities to meet our 
+vision of helping all employees grow, thrive, and connect.
+To improve access to benefits and compensation 
+information, we enhanced the A to Z employee app and 
+website—available in 66 countries—with an AI assistant, 
+Aza, that offers easily accessible and personalized 
+information about benefits, health care, and paid time off. 
+In 2025, 95% of employees accessed the mobile app or 
+website monthly.
+Upskilling Our Employees
+We are building a strong pipeline of talent to fill current 
+and future in-demand jobs at Amazon by continuously 
+working to enhance our AWS upskilling programs.
+AWS Grow Our Own Talent
+ helps individuals with 
+nontraditional experience and backgrounds develop skills 
+needed for AWS data center roles through on-the-job 
+training and placement opportunities.
+The AWS Intelligence Initiative
+ is a 12- to 14-month 
+rotational onboarding and technical upskilling 
+program for engineers supporting Amazon Dedicated 
+Cloud regions.
+AWS Skill Builder
+ helps turn AWS skills into career 
+growth. Through in-demand cloud and AI skills practical 
+training and validation, employees can prove what they’ve 
+learned through industry recognized credentials. 
+Learn more about our educational programs
+ 
+Together at Amazon: Building 
+Community and Connection
+We are dedicated to building the best products and 
+services for the most globally diverse employees, 
+customers, and communities in the world. Amazon’s 
+strategy is to move beyond traditional supplemental 
+programs and create scalable systems that work for 
+everyone, by design, serving our workforce of more than 
+1.5 million full- and part-time employees worldwide as 
+well as the customers, partners, and communities we 
+reach. Building systems that address unmet customer 
+needs and work for people around the world is a shared 
+responsibility across Amazon. 
+Responsible 
+Supply Chain
+We are committed to providing products and services 
+that are produced or supplied in a way that respects 
+human rights and the environment, and protects the 
+fundamental dignity of workers. Amazon identifies and 
+addresses supply chain risks by maintaining a robust 
+management system that includes a supplier audit 
+program, business-unit-specific human rights and 
+environmental due diligence, support for effective 
+grievance mechanisms, and remediation support. 
+Amazon’s Supply Chain Standards
+ underpin this 
+approach, which also includes identifying country- and 
+supplier-specific risks and implementing site-level 
+requirements to build suppliers’ capacity to meet our 
+standards. These standards are available in 23 languages 
+and detail expectations for all suppliers of goods and 
+services for Amazon, including AWS service providers, 
+vendors, contractors, and subcontractors. Products and 
+services delivered to Amazon must be manufactured, 
+produced, or provided in accordance with these standards. 
+We require our suppliers to hold their own suppliers, 
+subcontractors, recruitment agents, and labor agents to 
+applicable laws and these standards.
+To enhance the ability of our experts to identify issues and 
+categorize audit results more quickly and accurately, we 
+have been using AI audit processing tools
+ . An early 
+version of one of these tools processed audit reports 79% 
+faster than manual review processes.
+Supplier Transparency and Risk 
+Assessment
+Throughout our complex global supply chain, we continue 
+to increase supplier transparency through supply chain 
+mapping and industry collaboration.
+In 2025, we analyzed materials flow across AWS’s 
+upstream supply chain to track materials from raw 
+material extraction through end of life. By combining this 
+material flow data with human rights risk assessments, we 
+can identify where the most severe risks may exist in our 
+supply chain and focus our due diligence efforts on the 
+areas that matter most, including our approach to 
+avoiding conflict minerals.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+13 | 
+AWS provides free and low-cost cloud computing and 
+AI skills training for people of all backgrounds 
+and skill levels.
+
+Communities
+AWS aims to create positive outcomes in our communities 
+using our global scale and operational strengths. We focus 
+on two things: improving customers’ lives and 
+contributing to the fabric of communities. 
+Education and Skills-Building
+We support learners of all ages to develop skills needed 
+for future jobs. The AWS Education Equity Initiative
+ , a 
+$100 million, five-year investment in cloud and AI 
+technology, expands access to education and technical 
+skills globally. In 2025, we launched Future Ready—a 
+$2.5 billion initiative to equip 50 million people with the 
+skills they need for the future of work by 2030. This new 
+upskilling initiative benefits Amazon employees, students, 
+and many others because we believe that in a rapidly 
+changing economy, people deserve the tools to adapt, 
+build a career, and thrive.
+In 2025, we:
+• Connected 144,500 learners to employers through the 
+AWS Skills to Jobs Tech Alliance
+ 
+• Reached 5.8 million students through the childhood-
+to-career computer science program, Amazon Future 
+Engineer 
+• Launched 26 community funds and allocated more than 
+$21.1 million in hyper-local funding globally
+• Trained 14,400 unemployed or underemployed 
+individuals through AWS re/Start 12-week 
+training sessions
+• Distributed $17.9 million in AWS cloud and AI 
+technology for education
+To expand cloud and AI technology, the AWS Machine 
+Learning University educator enablement program 
+provides faculty at community colleges, minority-serving 
+institutions, and historically Black colleges and universities 
+with the skills and resources to teach data analytics, AI, 
+and machine learning concepts, building a diverse pipeline 
+for in-demand jobs of today and tomorrow. Through the 
+AWS AI and ML Scholars program
+ , we have provided 
+access to foundational skills in AI to 50,000 learners 
+globally. As part of the White House’s Pledge to America’s 
+Youth , Amazon will support AI skills training for 324,000 
+learners and enable AI curricula for 2,000 U.S. educators 
+by 2028. Additionally, AWS Academy
+ provides higher 
+education institutions with a free, ready-to-teach AI and 
+cloud computing curriculum that prepares students to 
+pursue industry-recognized certifications and in-demand 
+technology jobs.
+Learn more about our s
+kills training programs and 
+STEM Education programs 
+Disaster Relief 
+We provide technology solutions to partners responding 
+to emergencies, including kits to restore online access, 
+portable mapping devices for search and rescue, and 
+technology that prevents drones from interfering with 
+firefighting aircraft. Amid three natural disasters in 2025, 
+we deployed AWS cloud technology to help local 
+governments and organizations stay connected and 
+provided over $1.2 million in AWS cloud and AI 
+technology for disaster resilience efforts, including 
+supporting Watch Duty, which runs its wildfire tracking 
+service on AWS.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+14 | 
+AWS aims to create positive outcomes in our communities 
+using our global scale and operational strengths.
+
+Endnotes
+1. On-premises refers to organizations running hardware and software within 
+their own physical space.
+2. PUE measures the energy consumed by a data center to power computing 
+equipment, cooling, and other data center infrastructure to support 
+operations. A lower PUE value indicates greater efficiency. The theoretical 
+minimum PUE of 1.0 would imply that all the energy consumed by a data 
+center is being used to power computing equipment and that none is wasted 
+on cooling or other infrastructure. Industry averages are as estimated by the 
+International Data Corporation, 2H24 Datacenter Trends: Sustainable 
+Datacenter Builds and CO2 Emissions Doc # US51911924, January 2025. 
+AWS efficiency data are as estimated in research .
+3. Carbon-free energy includes electricity generated from sources that 
+produce no direct carbon emissions—such as wind, solar, nuclear, 
+hydroelectric, and geothermal—as well as site energy contracts and green 
+tariffs with local utilities that add new renewable projects to the grid.
+4. As detailed in our Renewable Energy Methodology
+ , we calculate the 
+percentage of our electricity consumption that is matched with renewable 
+energy by adding the amount of energy generated from renewable energy 
+projects enabled by Amazon plus renewable energy in the grids where 
+Amazon operates then dividing by Amazon's global electricity use.
+5. The embodied carbon calculation uses the Carbon Leadership Forum’s (CLF) 
+2021 baseline. CLF baselines represent an estimate of industry-average GHG 
+emissions for construction materials manufactured in North America.
+6. We measure progress against this goal by adding together reused water 
+and water from replenishment and dividing that number by total water 
+withdrawal minus water from sustainable sources, multiplied by 100%, as 
+described in our Water Positive Methodology
+ .
+7. The water stress levels in this chart use WRI's 2030 business-as-usual 
+baseline scenario, consider source water stress, and cover only leased and 
+owned data centers.
+8. Carbon emissions abated from reuse and resale of data center hardware.
+9. UL’s Zero Waste to Landfill methodology defines Silver-level sites as those 
+diverting 90%–94%; Gold-level sites as those diverting 95%–99%; 
+and Platinum-level sites as those diverting 100% of waste, according to the 
+UL 2799 standard.
+10. The concept of salience uses the lens of risk to people, not to the 
+business, as the starting point, while recognizing that where risks to people’s 
+human rights are greatest, there is often strong convergence with risks to 
+the business.
+About AWS 2025 Year in Review AI for Sustainability Climate and Energy Water Waste and Circularity Biodiversity Human Rights Employee Experience Responsible Supply Chain Communities Endnotes
+15 | 
+On the cover
+Image 1: AWS invests relentlessly in the efficiency of our data 
+centers. We design AWS data centers to be highly water efficient, 
+using about one-seventh of what an average data center 
+withdraws. 
+Image 2: AWS is taking a direct-to-chip approach, which puts a 
+“cold plate” directly on top of the chip. The liquid runs in tubes 
+through that sealed plate, absorbing the heat and carrying it out
+of the server rack.
+Image 3: Our custom-designed chips—including Trainium3 for AI 
+model training—offer better performance per MW than its 
+predecessor, while maintaining the same latency or response time
+per user.
+
+Published July 2026 | sustainability.aboutamazon.com
