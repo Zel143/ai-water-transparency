@@ -29,6 +29,7 @@ Note the form of the reassurance: assertive, zero quantities, no named source or
 - A joint K-Water (Korea) / Maynilad bid — a proposed 50-year, ~₱15-billion joint venture — would manage New Clark City's water and wastewater systems, raising supply capacity from the current 20–30 million liters/day to ~150 million liters/day.
 - New Clark City signed a partnership with Marubeni (Japan) in June 2026 to upgrade energy infrastructure.
 - Neither of these is a completed water solution yet — they're the closest existing steps toward one. (For scale: 150M L/day ≈ 55B liters/year of *total city supply capacity* against ~15B liters/year demanded by each 1GW of data center.)
+- **No cooling technology has been publicly disclosed for the hub.** Neither BCDA's announcement, Foxconn's anchor-tenant coverage, nor the Teodoro water statement names a cooling approach — the 15B-liter/year, 1GW estimate assumes conventional evaporative cooling by default, not because anyone has confirmed that's the design. Foxconn's own infrastructure partner, Schneider Electric, markets "liquid-cooling-ready" modular AI data center designs elsewhere (see `solutions/policy_solutions.md` §2 for what a closed-loop or direct-to-chip design could do to that 15B-liter figure), but nothing ties that capability to New Clark City specifically as of July 2026 (search-verified absence, not a direct-fetch confirmation).
 
 ## Why This Case Study Matters for the Repo
 
